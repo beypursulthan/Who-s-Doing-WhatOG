@@ -1,0 +1,8 @@
+{
+  "name": "Who's Doing What",
+  "description": "A lightweight, zero-friction progressive web app to see what's happening around you. Share and discover local events and activities anonymously.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "prompt": ""
+}
